@@ -8,6 +8,8 @@ I am a control engineer from Brazil, currently living in Tokyo.
 - Industry Experience: 4 years
 - Education: Bsc, Msc, and PhD in Control and Automation Engineering.
 
+# Connect with me
+
 <br>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/benshendeng/)
