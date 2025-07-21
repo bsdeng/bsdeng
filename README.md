@@ -1,8 +1,8 @@
-### Hi there, I am Ben 👋
+# Hi there, I am Ben 👋
 
 I am a control engineer from Brazil, currently living in Tokyo.
 
-###
+# About Me
 
 - Location: Tokyo, Japan.
 - Industry Experience: 4 years
@@ -16,4 +16,4 @@ I am a control engineer from Brazil, currently living in Tokyo.
 
 <br>
 
-Skills
+# Skills
